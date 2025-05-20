@@ -9,7 +9,7 @@ import string
 nltk.download('punkt')
 nltk.download('punkt_tab')
 # Configuraciones de rutas y parámetros
-ARCHIVO_STOPWORDS = r"/home2/darnes/tarea6/stopwords2.txt"
+ARCHIVO_STOPWORDS = r".../stopwords2.txt"
 PALABRAS_ELIMINAR = {
     "aa", "xxx", "aba", "ab", "abc", "zrzu", "jazg", "jaiį",
     "zsu", "pgt", "ouu", "zsz", "dgĥrz", "aiʈaiī", "zulfikar", "ali", "pakistan",
